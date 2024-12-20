@@ -1,0 +1,6 @@
+
+<MARQUEE><CENTER><H1 STYLE="color:YELLOW;backgrouNd-color:BLACK">TECNICO EN SOFWARE
+</H1></MARQUEE>
+<CENTER><img src = "1.jpg"><MARQUEE>
+<CENTER><H1 STYLE="color:YELLOW;backgrouNd-color:BLACK">TECNICO EN SOFWARE
+</H1>
